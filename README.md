@@ -1,1 +1,1 @@
-<img src=https://media.giphy.com/media/tMx6oGv4LiIQo/giphy.gif />
+<img src=https://github.com/apogiatzis/apogiatzis/raw/master/title_drop_700frames.gif />
